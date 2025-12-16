@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "titre": "Le Petit Prince",
+        "auteur": "Antoine de Saint-Exupéry",
+        "genre": "Conte",
+        "année_publication": 1943,
+        "prix": 6.9,
+        "disponible": true
+    }
+]
