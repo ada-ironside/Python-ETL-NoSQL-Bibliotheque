@@ -67,11 +67,12 @@ Le projet est organisé en 3 fichiers respectant le principe de séparation des 
    ```bash
    python main.py
 
-📝 Scénario de Test (Validation)
-​Pour valider le bon fonctionnement de l'application, suivez ces étapes :
-​Initialisation : Lancez l'application via le terminal.
-​Data Entry : Choisissez l'option 1 et ajoutez un livre (ex: 1984, Orwell, SF, 1949, 10.0). Le système validera la cohérence de l'année.
-​Consultation : Vérifiez l'affichage dans le catalogue avec l'option 2.
-​Analyse : Affichez le rapport statistique avec l'option 7 pour voir les KPIs mis à jour (Valorisation du stock, genre dominant).
-​Persistance : Quittez avec l'option 9. Relancez l'application pour vérifier que les données sont bien rechargées depuis le JSON.
-​<!-- end list -->
+## 📝 Scénario de Test (Validation)
+
+Pour valider le bon fonctionnement de l'application, suivez ces étapes :
+
+- **Initialisation** : Lancez l'application via le terminal.
+- **Data Entry** : Choisissez l'option 1 et ajoutez un livre (ex: 1984, Orwell, SF, 1949, 10.0). Le système validera la cohérence de l'année.
+- **Consultation** : Vérifiez l'affichage dans le catalogue avec l'option 2.
+- **Analyse** : Affichez le rapport statistique avec l'option 7 pour voir les KPIs mis à jour.
+- **Persistance** : Quittez avec l'option 9. Relancez l'application pour vérifier que les données sont bien rechargées.
