@@ -1,7 +1,8 @@
 # Projet Final : Gestion de Bibliothèque & Pipeline ETL NoSQL
 
--**Auteur :** Ada Faty GATH
--**Cours :** Programmation Python
+**Auteur :** Ada Faty GATH
+
+**Cours :** Programmation Python
 
 ---
 
